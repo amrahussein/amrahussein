@@ -3,7 +3,7 @@
  
   I'm passionate about developing and designing modern web apps with usability in mind.  </p>
                 
- *wanna know a bit more <strong>about me</strong>:* <em>https://amromoorie.com/about</em>
+ *wanna know a bit more <strong>about me</strong>?:* <em>https://amromoorie.com/about</em>
  
 &nbsp;
 
