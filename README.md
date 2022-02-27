@@ -1,7 +1,10 @@
 <p>Hey, I am <strong>Amr Abdelkamel.</strong> I'm passionate about developing and designing modern web apps with usability in mind.  </p>
                 
- #### wanna know a bit more <strong>about me</strong>: <em>https://amromoorie.com/about</em>
-&nbsp;       
+ *wanna know a bit more <strong>about me</strong>:* <em>https://amromoorie.com/about</em>
+ 
+&nbsp;
+
+
 <p align="left"> <a href="https://twitter.com/amromoorie" target="blank"><img src="https://img.shields.io/twitter/follow/amromoorie?logo=twitter&style=for-the-badge" alt="amromoorie" /></a> </p>
 
 - My email: **amromoorie@gmail.com**
