@@ -19,9 +19,9 @@ soon
 <p>
 
 <a target="_blank" href="https://twitter.com/amromoorie" target="blank"><img align="center" src="https://github.com/amromoorie/amromoorie/blob/main/assets/icons8-twitter-64.png" alt="amromoorie" height="50" width="50" /></a>
-<a target="_blank" href="https://instagram.com/amromoorie" target="blank"><img align="center" src="https://github.com/amromoorie/amromoorie/blob/main/assets/icons8-instagram-64.png" alt="amromoorie" height="52" width="52" /></a>
-<a target="_blank" href="https://linkedin.com/in/amromoorie" target="blank"><img align="center" src="https://github.com/amromoorie/amromoorie/blob/main/assets/icons8-linkedin-100.png" alt="amromoorie" height="58" width="58" /></a>
-<a target="_blank" href="https://fb.com/amromoorie" target="blank"><img align="center" src="https://github.com/amromoorie/amromoorie/blob/main/assets/icons8-facebook-50.png" alt="amromoorie" height="65" width="65" /></a>
+<a target="_blank" href="https://instagram.com/amromoorie" target="blank"><img align="center" src="https://github.com/amromoorie/amromoorie/blob/main/assets/icons8-instagram-64.png" alt="amromoorie" height="50" width="50" /></a>
+<a target="_blank" href="https://linkedin.com/in/amromoorie" target="blank"><img align="center" src="https://github.com/amromoorie/amromoorie/blob/main/assets/icons8-linkedin-100.png" alt="amromoorie" height="60" width="60" /></a>
+<a target="_blank" href="https://fb.com/amromoorie" target="blank"><img align="center" src="https://github.com/amromoorie/amromoorie/blob/main/assets/icons8-facebook-64.png" alt="amromoorie" height="50" width="50" /></a>
 
 </p>
 
