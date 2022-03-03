@@ -1,5 +1,5 @@
 ![cat wondering](https://github.com/amromoorie/amromoorie/blob/main/assets/cat-wondering.png)
-<p>Hey, I am <strong>Amr Abdelkamel</strong> 👋 I'm passionate about developing and designing modern web apps with usability in mind specializing in front-end technologies.</p>
+<p>Hey, I'm <strong>Amr Abdelkamel</strong> 👋 ...and I'm passionate about developing and designing modern web apps with usability in mind specializing in front-end technologies.</p>
                 
  *wanna know a bit more <strong>about me</strong>?:* <em>https://amromoorie.com/about</em>
  
