@@ -1,5 +1,5 @@
 ![cat wondering](https://github.com/amromoorie/amromoorie/blob/main/assets/cat-wondering.png)
-<p> _Nice to meet you!_ </P>
+<p> Nice to meet you! </P>
 
 Hey, I'm ___Amr Abdelkamel___ 👋 ...and I'm passionate about developing modern web apps with usability in mind.
 
