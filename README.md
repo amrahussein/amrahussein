@@ -1,12 +1,17 @@
 ![cat wondering](https://github.com/amromoorie/amromoorie/blob/main/assets/cat-wondering.png)
-_Nice to meet you!_
+<p> _Nice to meet you!_ </P>
 
 Hey, I'm ___Amr Abdelkamel___ 👋 ...and I'm passionate about developing modern web apps with usability in mind.
 
-
+<p> 
 👓 Core Speciality: Frontend development, JavaScript, React ecosystem
+</P>
+<p>
 🍔 My Tech Stack: MERN, JAM, NextJS
+ </P>
+<p> 
 🌲 On track for learning more about: ReactNative, NodeJS, NestJS
+</P>
 
 CURRENTLY, I'm SEEKING opportunities as a Frontend developer for investing and growing as a professional.
                 
