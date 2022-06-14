@@ -1,17 +1,30 @@
 ![cat wondering](https://github.com/amromoorie/amromoorie/blob/main/assets/cat-wondering.png)
-<p>Hey, I'm <strong>Amr Abdelkamel</strong> 👋 ...and I'm passionate about developing and designing modern web apps with usability in mind specializing in front-end technologies.</p>
+_Nice to meet you!_
+
+Hey, I'm ___Amr Abdelkamel___ 👋 ...and I'm passionate about developing modern web apps with usability in mind.
+
+
+👓 Core Speciality: Frontend development, JavaScript, React ecosystem
+🍔 My Tech Stack: MERN, JAM, NextJS
+🌲 On track for learning more about: ReactNative, NodeJS, NestJS
+
+CURRENTLY, I'm SEEKING opportunities as a Frontend developer for investing and growing as a professional.
                 
- *wanna know a bit more <strong>about me</strong>?:* <em>https://amromoorie.com/about</em>
+ __more__ _about me?:_ https://amromoorie.com/about
  
 &nbsp;
 
 
 <p align="left"> <a href="https://twitter.com/amromoorie" target="blank"><img src="https://img.shields.io/twitter/follow/amromoorie?logo=twitter&style=for-the-badge" alt="amromoorie" /></a> </p>
 
-- My email: **amromoorie@gmail.com**
-- Reach me on Telegram: **[telegram.me/amromoorie](https://telegram.me/amromoorie/)**
+
+
+- _You can shoot me an __email__ at:_ amr.abdelkamel3@outlook.com
+- _Reach me on __Telegram__:_ [telegram.me/amromoorie](https://telegram.me/amromoorie/)
+
 
 &nbsp;
+
 ### latest posts
 soon
 <!-- BLOG-POST-LIST:START -->
@@ -38,7 +51,7 @@ soon
 
 &nbsp;
 
-#### ***attribution***
-*Social Icons* downloaded from: <a target="_blank" href="https://icons8.com">Icons8</a>
+#### ___attribution___
+_Social Icons_ downloaded from: <a target="_blank" href="https://icons8.com">Icons8</a>
 <br>
 This *Readme profile* generated with the help of: <a target="_blank" href="https://github.com/rahuldkjain/github-profile-readme-generator">this repo</a>
