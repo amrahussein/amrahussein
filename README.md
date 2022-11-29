@@ -3,8 +3,16 @@
 
 Hey, I'm ___Amr Abdelkamel___ 👋 ...and I'm passionate about developing modern web apps with usability in mind.
 
-                
- __more__ _about me and skills?:_ https://amromoorie.com/about
+
+Specialized in
+- React eco-system
+- JavaScript/TypeScript
+- JAM stack
+- Full-Stack with TypeScript
+
+Currently, I'm an intensive full-stack track intern in ITI preparing for professional world!
+
+ __more__ _more about me?:_ https://amromoorie.com/about
  
 &nbsp;
 
