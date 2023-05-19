@@ -3,14 +3,13 @@
 
 Hey, I'm ___Amr Abdelkamel___ 👋 ...and I'm passionate about developing modern web apps with usability in mind.
 
+I'm curious about the diversity of the tech world where I have a great passion for web technologies and development. I enjoy building usable web apps centered around users' requirements with empathy.
 
-Specialized in:
-- React eco-system
-- JavaScript/TypeScript
-- JAM stack
-- Full-Stack with TypeScript
+Ready to work & collaborate with the following roles/job profiles:
+* Full Stack with JavaScript/TypeScript (MERN, Next.js, Redux, Prisma)
+* Modern Frontend (React ecosystem, Angular, TailwindCSS, MUI, Mantine) 
+* Full Stack with .NET API / .NET MVC (Restful APIs, OOP, SQL, EF Core, Bootstrap)
 
-Currently, I'm an intensive full-stack track intern in ITI preparing for the professional world!
 
  __more__ _more about me?:_ https://amromoorie.com/about
  
