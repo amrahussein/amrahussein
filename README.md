@@ -28,7 +28,7 @@ I love connecting with new people. Feel free to reach out to me if you're intere
 &nbsp;
 
 
-<p align="left"> <a href="https://twitter.com/amrahussein" target="blank"><img src="https://img.shields.io/twitter/follow/amrahussein3?logo=twitter&style=for-the-badge" alt="amrahussein3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amrahussein3" target="blank"><img src="https://img.shields.io/twitter/follow/amrahussein3?logo=twitter&style=for-the-badge" alt="amrahussein3" /></a> </p>
 
 
 
