@@ -16,7 +16,7 @@ Things that inspire me as a web developer:
 
 my top 3:
 * JavaScript/TypeScript
-* .NET API
+* C#/.NET API
 * React
 
 
