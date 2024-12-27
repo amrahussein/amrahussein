@@ -23,8 +23,6 @@ my top 3:
 I love connecting with new people. Feel free to reach out to me if you're interested in what I'm up to. Let's build trust and grow together!
 
 
-💻 Check my Github repo: https://github.com/amrahussein?tab=repositories
-
 &nbsp;
 
 
@@ -59,5 +57,4 @@ soon -->
 ---
 #### ___attribution___
 _Social Icons_ downloaded from: <a target="_blank" href="https://icons8.com">Icons8</a>
-<br>
-This *Readme profile* generated with the help of: <a target="_blank" href="https://github.com/rahuldkjain/github-profile-readme-generator">this repo</a>
+
